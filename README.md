@@ -1,2 +1,2 @@
 # Tarea1-POO
-Programa que ayuda a Administrar  Personajes de Juego
+Ana Raquel Mejia Flores  U20230815, Ejercicio 20
