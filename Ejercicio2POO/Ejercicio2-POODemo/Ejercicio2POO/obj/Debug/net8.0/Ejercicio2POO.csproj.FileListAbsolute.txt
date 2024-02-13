@@ -1,0 +1,14 @@
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.exe
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.deps.json
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.runtimeconfig.json
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.dll
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\bin\Debug\net8.0\Ejercicio2POO.pdb
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.AssemblyInfoInputs.cache
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.AssemblyInfo.cs
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.csproj.CoreCompileInputs.cache
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.dll
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\refint\Ejercicio2POO.dll
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.pdb
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\Ejercicio2POO.genruntimeconfig.cache
+C:\Users\consu\OneDrive\Documentos\Ejercicio2POO\Ejercicio2-POODemo\Ejercicio2POO\obj\Debug\net8.0\ref\Ejercicio2POO.dll
